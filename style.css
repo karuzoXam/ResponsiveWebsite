@@ -104,7 +104,7 @@ nav a,
 }
 
 .hero-article {
-  background: url('/images/mobile/article-image-hero.png') no-repeat center center
+  background: url('/images/mobile/article-image-hero.png') no-repeat center center;
   background-size: cover;
   width: 100%;
   position: relative;
